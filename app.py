@@ -1,1 +1,1 @@
-print("Hello")
+print("Brudite 2k24")
